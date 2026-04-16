@@ -26,7 +26,7 @@ An interactive 3D card showcasing tilt mechanics, depth-based parallax, dynamic 
 
 ## 🚀 Live Preview
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-facc15?style=for-the-badge&logo=vercel&logoColor=black)](https://your-live-link.com)
+[![Live Demo]( https://golu-dhama.github.io/DepthCard/)
 
 ---
 
