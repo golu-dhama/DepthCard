@@ -26,7 +26,7 @@ An interactive 3D card showcasing tilt mechanics, depth-based parallax, dynamic 
 
 ## 🚀 Live Preview
 
-[![Live Demo]( https://golu-dhama.github.io/DepthCard/)
+[View Live Demo](https://golu-dhama.github.io/DepthCard/)
 
 ---
 
